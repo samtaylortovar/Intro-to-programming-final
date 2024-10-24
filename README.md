@@ -21,5 +21,5 @@ once it installs you can run the code called quickstart.py, i put it as one of t
 if everything works well it should list the next 10 events from google calander into the console...
 
 and thats it!
-
+ if you want to you can try to add an event to the calander using the calanderproject.py and editing the code to make your own event. its really easy.
 
